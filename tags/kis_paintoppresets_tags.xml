@@ -1,295 +1,304 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tags>
 <tags>
- <resource md5="cFulevA8SnmEuh8zEllsHA==" identifier="/tmp/.mount_lDzuSU/usr/share/krita/paintoppresets/Layout_oval.kpp">
+ <resource identifier="/tmp/.mount_G3YO5a/usr/share/krita/paintoppresets/Smudge_soft.kpp" md5="ZGyOAEZd+QNmT0m3QYlYYw==">
   <tag>mimi</tag>
  </resource>
- <resource md5="bhiruEnfPq9QtfH70mNBFQ==" identifier="/tmp/.mount_lDzuSU/usr/share/krita/paintoppresets/Basic_wet.kpp">
+ <resource identifier="/tmp/.mount_G3YO5a/usr/share/krita/paintoppresets/Basic_tip_gaussian.kpp" md5="KO3fC5sSIawmyoprNj4Gjw==">
   <tag>mimi</tag>
  </resource>
- <resource md5="laTtQ4d+wPM9fGBVY5fMUA==" identifier="/tmp/.mount_lDzuSU/usr/share/krita/paintoppresets/Layout_pen.kpp">
+ <resource identifier="/tmp/.mount_G3YO5a/usr/share/krita/paintoppresets/Rake_texture.kpp" md5="csjyL6O5gmzIfFaOOxAH0w==">
   <tag>mimi</tag>
  </resource>
- <resource md5="RT+G7vQx4U8luUHsisZkzw==" identifier="/tmp/.mount_lDzuSU/usr/share/krita/paintoppresets/Eraser_soft.kpp">
+ <resource identifier="~/.local/share/krita/paintoppresets/mifth_presets/mifth_vegetation_05.kpp" md5="q6pOj7LKBrgy5moeqQrVHg==">
   <tag>mimi</tag>
+ </resource>
+ <resource identifier="/tmp/.mount_G3YO5a/usr/share/krita/paintoppresets/Sparkle_wet.kpp" md5="0z90oFiQvfdSx/mL5xLm/A==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="/tmp/.mount_G3YO5a/usr/share/krita/paintoppresets/Layout_circle_soft.kpp" md5="m50TBtJ7JyEd9zehB3njPA==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="~/.local/share/krita/paintoppresets/mifth_presets/mifth_basic_round_03.kpp" md5="e3bKmN4Uv4BvisohvSf7WQ==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="~/.local/share/krita/paintoppresets/deevad E5 splat drop.kpp" md5="zUaRL7nEAoWqB3gjTEWsXg==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="/tmp/.mount_G3YO5a/usr/share/krita/paintoppresets/Splat_texture_2.kpp" md5="ozMDETbUDw2AwmnJKilJJg==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="/tmp/.mount_G3YO5a/usr/share/krita/paintoppresets/Move_tool.kpp" md5="wyfb0jDg8TkTAGAXomgQFQ==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="/tmp/.mount_G3YO5a/usr/share/krita/paintoppresets/Basic_wet.kpp" md5="bhiruEnfPq9QtfH70mNBFQ==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="~/.local/share/krita/paintoppresets/mifth_presets/mifth_basic_round_05.kpp" md5="TuQi0CpiRJK5oVwjpDWpJA==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="/tmp/.mount_G3YO5a/usr/share/krita/paintoppresets/FX_blur_light.kpp" md5="SSSiIrr959jpNXBouMmnYA==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="~/.local/share/krita/paintoppresets/deevad G7 template brush texture.kpp" md5="SX4ddaW9IrHK2dctbu2mNw==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="~/.local/share/krita/paintoppresets/deevad E006 opaque filler.kpp" md5="wzFpI0YUhcx3xq1aaVNe2w==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="~/.local/share/krita/paintoppresets/mifth_presets/mifth_fuzzy_03.kpp" md5="is3/Vu/7WYGq2ePcrwJ67Q==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="/tmp/.mount_G3YO5a/usr/share/krita/paintoppresets/Splat_mix_cells.kpp" md5="I4aD9y63gSwMNVcPTBszvg==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="/tmp/.mount_G3YO5a/usr/share/krita/paintoppresets/Basic_tip_soft.kpp" md5="Sf+LwjQCa/bLxaomd1xP1A==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="/tmp/.mount_G3YO5a/usr/share/krita/paintoppresets/Basic_mix_soft.kpp" md5="kraUtRXtAPFN42XT9iL1Ow==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="/tmp/.mount_G3YO5a/usr/share/krita/paintoppresets/Sponge_texture.kpp" md5="SDi0lo9MZBoX87jtxIKNbg==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="~/.local/share/krita/paintoppresets/deevad D3 Alchemy shape tool.kpp" md5="q4Ng2uKVVVLtX0y5/u1zOg==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="/tmp/.mount_G3YO5a/usr/share/krita/paintoppresets/Block_fuzzy.kpp" md5="gWod5rQTdcinE5Buykcl/Q==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="/tmp/.mount_G3YO5a/usr/share/krita/paintoppresets/Sparkle_wet_soft.kpp" md5="iatG6w0IUd7sn2Q2Q9sOLg==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="~/.local/share/krita/paintoppresets/deevad C6 rake grunge.kpp" md5="ssuIH+NAQxew8+e64ygmMw==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="/tmp/.mount_G3YO5a/usr/share/krita/paintoppresets/Texture_leaves_fuzzy.kpp" md5="QHwE6hsW6DnyR4gEiLR8+A==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="~/.local/share/krita/paintoppresets/deevad C5 speedpainting rake.kpp" md5="vw8GIdfq1cjK5HR0JFEG1Q==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="~/.local/share/krita/paintoppresets/mifth_presets/mifth_vegetation_04.kpp" md5="ruUfRKHGPwKed3ftFm1MoQ==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="/tmp/.mount_G3YO5a/usr/share/krita/paintoppresets/Eraser_circle.kpp" md5="AebX4dlY1cnZw4ZrwRfuJg==">
+  <tag>Favorite Presets</tag>
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="/tmp/.mount_G3YO5a/usr/share/krita/paintoppresets/Splat_texture.kpp" md5="WtYLjWxOCMRfyDWmLu7Adw==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="~/.local/share/krita/paintoppresets/mifth_presets/mifth_grunge_05.kpp" md5="l47G/ADsP8T1yJyT0u5bSw==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="/tmp/.mount_G3YO5a/usr/share/krita/paintoppresets/Pencil_tilt.kpp" md5="UyoKRTSR6MPDDODfv04GCg==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="~/.local/share/krita/paintoppresets/mifth_presets/mifth_basic_rectangle_01.kpp" md5="9d8ef2rnSJkMimHIIUDxAg==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="/tmp/.mount_G3YO5a/usr/share/krita/paintoppresets/Smudge_rake.kpp" md5="6kLCBYsggIZCxWFNkjG6hw==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="/tmp/.mount_G3YO5a/usr/share/krita/paintoppresets/Splat_wet_cells.kpp" md5="AwjsNqVC2oJjMgXtmwankQ==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="/tmp/.mount_G3YO5a/usr/share/krita/paintoppresets/Eraser_soft.kpp" md5="RT+G7vQx4U8luUHsisZkzw==">
+  <tag>Favorite Presets</tag>
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="~/.local/share/krita/paintoppresets/mifth_presets/mifth_vegetation_02.kpp" md5="HroxpIN+Jd5r5ne7E252JA==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="~/.local/share/krita/paintoppresets/deevad G3 vegetal stylised.kpp" md5="5CTeHQeYsRYk9O6PdTjGLg==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="~/.local/share/krita/paintoppresets/deevad E001 digital sketch.kpp" md5="j9TdU+lxUfNdjg1fM5TW7Q==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="/tmp/.mount_G3YO5a/usr/share/krita/paintoppresets/Spray_splat.kpp" md5="U4f7Cq2tW6wSZqtWSa+1QQ==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="~/.local/share/krita/paintoppresets/mifth_presets/mifth_fuzzy_07.kpp" md5="DXqf3q1oEwcdcifcGGmzcQ==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="~/.local/share/krita/paintoppresets/mifth_presets/mifth_vegetation_03.kpp" md5="IX+GAyagcn7WACtbfbYv1A==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="~/.local/share/krita/paintoppresets/mifth_presets/mifth_basic_round_02.kpp" md5="SPxi0/lbpOSdyb5J/RDCAA==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="~/.local/share/krita/paintoppresets/deevad D4a blender smeark.kpp" md5="57on2LCesn7IsaTfnS6xzA==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="~/.local/share/krita/paintoppresets/deevad E4 splat.kpp" md5="Wa+TDI+UVsdIxbwrKrh2FQ==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="/tmp/.mount_G3YO5a/usr/share/krita/paintoppresets/Pencil_2B.kpp" md5="h0Obq3EhJfNzl54qcp4L+A==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="~/.local/share/krita/paintoppresets/mifth_presets/mifth_basic_round_04.kpp" md5="tetTf3X1H4+CFJb7reObTQ==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="~/.local/share/krita/paintoppresets/deevad D4b dynamic blend.kpp" md5="mXA5Xk/kA0FaJZZLq2Ds4A==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="~/.local/share/krita/paintoppresets/deevad E1 organic flower ivy plants.kpp" md5="KbWhtAm9cNbjdkzg9o8uuA==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="~/.local/share/krita/paintoppresets/mifth_presets/mifth_grunge_17.kpp" md5="h9iFfcEF1vlMm57ReEhUpw==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="~/.local/share/krita/paintoppresets/deevad C5 speedpainting rake plain.kpp" md5="OoHHIYqFtDB7cCwbXv0KwA==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="/tmp/.mount_G3YO5a/usr/share/krita/paintoppresets/Rake_bristle_dry.kpp" md5="8aXfbHNLa+3cC+t4FcdFkw==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="~/.local/share/krita/paintoppresets/deevad G6 cracks.kpp" md5="TD3udZsAuEHMskr1kFKyag==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="/tmp/.mount_G3YO5a/usr/share/krita/paintoppresets/Splatter_thin.kpp" md5="Lz5cd9ZHumhoJvly7OuYLA==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="/tmp/.mount_G3YO5a/usr/share/krita/paintoppresets/Bristle_frottis.kpp" md5="o86Nk6Ah17Weo2JnmL0PuQ==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="~/.local/share/krita/paintoppresets/deevad E010 detail rigger.kpp" md5="DmvVmdGnDH9bTrnuvaLFhQ==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="/tmp/.mount_G3YO5a/usr/share/krita/paintoppresets/Basic_mix.kpp" md5="+MKlutfRsrv3Vz45EVHzug==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="~/.local/share/krita/paintoppresets/mifth_presets/mifth_grunge_06.kpp" md5="93xCHSLyBrGjPyQ4NwZE4A==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="/tmp/.mount_G3YO5a/usr/share/krita/paintoppresets/Layout_oval.kpp" md5="cFulevA8SnmEuh8zEllsHA==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="~/.local/share/krita/paintoppresets/deevad C4 rake large.kpp" md5="uVv1jOPeeejabDwiPvK9eQ==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="~/.local/share/krita/paintoppresets/deevad D4 Blender soft.kpp" md5="mURZNdfB8afyIwkXwEkflA==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="~/.local/share/krita/paintoppresets/deevad E2 multi painting touch.kpp" md5="lqsRGJb0whBOQhjolzr1TA==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="~/.local/share/krita/paintoppresets/mifth_presets/mifth_grunge_16.kpp" md5="AdpIKVWpmmsC65QW5IEQ2A==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="/tmp/.mount_G3YO5a/usr/share/krita/paintoppresets/Smudge_water.kpp" md5="Yurkuc//4NYwwVTK2pr6hw==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="~/.local/share/krita/paintoppresets/deevad C2 watercolor.kpp" md5="ZryJOG/beJBPgmBmUWApyg==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="~/.local/share/krita/paintoppresets/mifth_presets/mifth_grunge_12.kpp" md5="buPCuPsJD37s0628JmNDiQ==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="~/.local/share/krita/paintoppresets/deevad E004 blend and paint softGk7550.kpp" md5="E/7SyYvkplNI96w4gKRyVQ==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="/tmp/.mount_G3YO5a/usr/share/krita/paintoppresets/Layout_block.kpp" md5="NJLSuh5hldaTIyR7k2qUFQ==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="/tmp/.mount_G3YO5a/usr/share/krita/paintoppresets/Bristles_mix.kpp" md5="FbO1eQ7M4qEpbUB3I0YGtQ==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="~/.local/share/krita/paintoppresets/deevad B4 paint roller.kpp" md5="ftrMfRJA902Oe3zHFGvMLg==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="/tmp/.mount_G3YO5a/usr/share/krita/paintoppresets/Smudge_textured.kpp" md5="fEHvZO4AdFGJojO1fIIMgw==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="/tmp/.mount_G3YO5a/usr/share/krita/paintoppresets/Bristles_hairy.kpp" md5="LYHcKGV344ZuzRsD8eWttw==">
+  <tag>Favorite Presets</tag>
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="/tmp/.mount_G3YO5a/usr/share/krita/paintoppresets/pixel1.kpp" md5="FTNb4QU6/6AtfSeN2fVnlw==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="~/.local/share/krita/paintoppresets/deevad D3b clone tool.kpp" md5="xG9fNpwSmVvSi3e6Kf+eBA==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="/tmp/.mount_G3YO5a/usr/share/krita/paintoppresets/Bristles_wet.kpp" md5="H1JI5+4OsugW1tTMiJBPUg==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="~/.local/share/krita/paintoppresets/deevad C3 textured wet.kpp" md5="4vpyeQXh05xC+QvwHfmrMA==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="/tmp/.mount_G3YO5a/usr/share/krita/paintoppresets/Fill_block.kpp" md5="WYPAI9HnZM+31iDIIX4Eiw==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="/tmp/.mount_G3YO5a/usr/share/krita/paintoppresets/Basic_tip_default.kpp" md5="QHxqwLMo6m73dsbXha4t1Q==">
+  <tag>Favorite Presets</tag>
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="~/.local/share/krita/paintoppresets/mifth_presets/mifth_basic_round_01.kpp" md5="vrucqsG53/RqU8T++r4g7w==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="~/.local/share/krita/paintoppresets/mifth_presets/mifth_grunge_08.kpp" md5="M4SqfU7YF8+wuBqoutMtJw==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="/tmp/.mount_G3YO5a/usr/share/krita/paintoppresets/Layout_pen.kpp" md5="laTtQ4d+wPM9fGBVY5fMUA==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="~/.local/share/krita/paintoppresets/mifth_presets/mifth_vegetation_01.kpp" md5="S3Xp7wfS1maX9wMp+axvWw==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="/tmp/.mount_G3YO5a/usr/share/krita/paintoppresets/Block_bristles.kpp" md5="badnTeJroPQ0kGYk5Xc39g==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="/tmp/.mount_G3YO5a/usr/share/krita/paintoppresets/Fill_circle.kpp" md5="gBFPik0q6QPItP+LgNMJlw==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="~/.local/share/krita/paintoppresets/mifth_presets/mifth_pixel_1.kpp" md5="zMvZE92dv4DEc9J+yXdHOA==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="/tmp/.mount_G3YO5a/usr/share/krita/paintoppresets/Pencil_HB.kpp" md5="NVbSBuXDdC3e4qIXZBa2Lw==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="/tmp/.mount_G3YO5a/usr/share/krita/paintoppresets/Block_basic.kpp" md5="NNR2MgWZNXTbDnTbX8hsRg==">
+  <tag>Favorite Presets</tag>
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="/tmp/.mount_G3YO5a/usr/share/krita/paintoppresets/Ink_gpen_10.kpp" md5="eq70dIWrKGFNRz58q4hOpw==">
+  <tag>Favorite Presets</tag>
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="~/.local/share/krita/paintoppresets/deevad E3 noise.kpp" md5="+/jbiD4773IpM4fyQoA7ZA==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="/tmp/.mount_G3YO5a/usr/share/krita/paintoppresets/Smudge_rake_2.kpp" md5="Di7CAhmne/DZO6/yc3uXgA==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="~/.local/share/krita/paintoppresets/deevad E009 detail mediumq.kpp" md5="2fkjXry9NuKIkZ4Jq3kk8Q==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="/tmp/.mount_G3YO5a/usr/share/krita/paintoppresets/Bristles_textured.kpp" md5="Kj/y72ob+DwqmB2R3WrJZA==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="/tmp/.mount_G3YO5a/usr/share/krita/paintoppresets/Eraser_hard.kpp" md5="WYb3P2m6yAPzCP6UcZ9OFg==">
   <tag>Favorite Presets</tag>
  </resource>
- <resource md5="9d8ef2rnSJkMimHIIUDxAg==" identifier="~/.local/share/krita/paintoppresets/mifth_presets/mifth_basic_rectangle_01.kpp">
+ <resource identifier="~/.local/share/krita/paintoppresets/deevad B2 paint sketch.kpp" md5="Xa5RrDXDyLvccCjPDQ057g==">
   <tag>mimi</tag>
  </resource>
- <resource md5="wzFpI0YUhcx3xq1aaVNe2w==" identifier="~/.local/share/krita/paintoppresets/deevad E006 opaque filler.kpp">
+ <resource identifier="~/.local/share/krita/paintoppresets/deevad D5 move tool.kpp" md5="OwX2/sxbjqSoWZg/vvULFQ==">
   <tag>mimi</tag>
  </resource>
- <resource md5="LYHcKGV344ZuzRsD8eWttw==" identifier="/tmp/.mount_lDzuSU/usr/share/krita/paintoppresets/Bristles_hairy.kpp">
+ <resource identifier="/tmp/.mount_G3YO5a/usr/share/krita/paintoppresets/Basic_wet_soft.kpp" md5="dfYwrb91jZXJQrVUR4nUxA==">
   <tag>mimi</tag>
+ </resource>
+ <resource identifier="~/.local/share/krita/paintoppresets/mifth_presets/mifth_mix_01.kpp" md5="MmASj8i+WjFtBRgVe8/mgQ==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="~/.local/share/krita/paintoppresets/deevad E002 basic flow.kpp" md5="VpJzW9jJB6rHKyoKk03qZw==">
+  <tag>mimi</tag>
+ </resource>
+ <resource identifier="dummy">
   <tag>Favorite Presets</tag>
- </resource>
- <resource md5="SX4ddaW9IrHK2dctbu2mNw==" identifier="~/.local/share/krita/paintoppresets/deevad G7 template brush texture.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="OoHHIYqFtDB7cCwbXv0KwA==" identifier="~/.local/share/krita/paintoppresets/deevad C5 speedpainting rake plain.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="j9TdU+lxUfNdjg1fM5TW7Q==" identifier="~/.local/share/krita/paintoppresets/deevad E001 digital sketch.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="Xa5RrDXDyLvccCjPDQ057g==" identifier="~/.local/share/krita/paintoppresets/deevad B2 paint sketch.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="q4Ng2uKVVVLtX0y5/u1zOg==" identifier="~/.local/share/krita/paintoppresets/deevad D3 Alchemy shape tool.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="E/7SyYvkplNI96w4gKRyVQ==" identifier="~/.local/share/krita/paintoppresets/deevad E004 blend and paint softGk7550.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="U4f7Cq2tW6wSZqtWSa+1QQ==" identifier="/tmp/.mount_lDzuSU/usr/share/krita/paintoppresets/Spray_splat.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="badnTeJroPQ0kGYk5Xc39g==" identifier="/tmp/.mount_lDzuSU/usr/share/krita/paintoppresets/Block_bristles.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="QHxqwLMo6m73dsbXha4t1Q==" identifier="/tmp/.mount_lDzuSU/usr/share/krita/paintoppresets/Basic_tip_default.kpp">
-  <tag>mimi</tag>
-  <tag>Favorite Presets</tag>
- </resource>
- <resource md5="Yurkuc//4NYwwVTK2pr6hw==" identifier="/tmp/.mount_lDzuSU/usr/share/krita/paintoppresets/Smudge_water.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="OwX2/sxbjqSoWZg/vvULFQ==" identifier="~/.local/share/krita/paintoppresets/deevad D5 move tool.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="mURZNdfB8afyIwkXwEkflA==" identifier="~/.local/share/krita/paintoppresets/deevad D4 Blender soft.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="AebX4dlY1cnZw4ZrwRfuJg==" identifier="/tmp/.mount_lDzuSU/usr/share/krita/paintoppresets/Eraser_circle.kpp">
-  <tag>mimi</tag>
-  <tag>Favorite Presets</tag>
- </resource>
- <resource md5="FTNb4QU6/6AtfSeN2fVnlw==" identifier="/tmp/.mount_lDzuSU/usr/share/krita/paintoppresets/pixel1.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="8aXfbHNLa+3cC+t4FcdFkw==" identifier="/tmp/.mount_lDzuSU/usr/share/krita/paintoppresets/Rake_bristle_dry.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="o86Nk6Ah17Weo2JnmL0PuQ==" identifier="/tmp/.mount_lDzuSU/usr/share/krita/paintoppresets/Bristle_frottis.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="AwjsNqVC2oJjMgXtmwankQ==" identifier="/tmp/.mount_lDzuSU/usr/share/krita/paintoppresets/Splat_wet_cells.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="2fkjXry9NuKIkZ4Jq3kk8Q==" identifier="~/.local/share/krita/paintoppresets/deevad E009 detail mediumq.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="gWod5rQTdcinE5Buykcl/Q==" identifier="/tmp/.mount_lDzuSU/usr/share/krita/paintoppresets/Block_fuzzy.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="dfYwrb91jZXJQrVUR4nUxA==" identifier="/tmp/.mount_lDzuSU/usr/share/krita/paintoppresets/Basic_wet_soft.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="I4aD9y63gSwMNVcPTBszvg==" identifier="/tmp/.mount_lDzuSU/usr/share/krita/paintoppresets/Splat_mix_cells.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="kraUtRXtAPFN42XT9iL1Ow==" identifier="/tmp/.mount_lDzuSU/usr/share/krita/paintoppresets/Basic_mix_soft.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="ruUfRKHGPwKed3ftFm1MoQ==" identifier="~/.local/share/krita/paintoppresets/mifth_presets/mifth_vegetation_04.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="e3bKmN4Uv4BvisohvSf7WQ==" identifier="~/.local/share/krita/paintoppresets/mifth_presets/mifth_basic_round_03.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="fEHvZO4AdFGJojO1fIIMgw==" identifier="/tmp/.mount_lDzuSU/usr/share/krita/paintoppresets/Smudge_textured.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="vw8GIdfq1cjK5HR0JFEG1Q==" identifier="~/.local/share/krita/paintoppresets/deevad C5 speedpainting rake.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="+/jbiD4773IpM4fyQoA7ZA==" identifier="~/.local/share/krita/paintoppresets/deevad E3 noise.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="ozMDETbUDw2AwmnJKilJJg==" identifier="/tmp/.mount_lDzuSU/usr/share/krita/paintoppresets/Splat_texture_2.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="H1JI5+4OsugW1tTMiJBPUg==" identifier="/tmp/.mount_lDzuSU/usr/share/krita/paintoppresets/Bristles_wet.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="vrucqsG53/RqU8T++r4g7w==" identifier="~/.local/share/krita/paintoppresets/mifth_presets/mifth_basic_round_01.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="ftrMfRJA902Oe3zHFGvMLg==" identifier="~/.local/share/krita/paintoppresets/deevad B4 paint roller.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="Di7CAhmne/DZO6/yc3uXgA==" identifier="/tmp/.mount_lDzuSU/usr/share/krita/paintoppresets/Smudge_rake_2.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="ZGyOAEZd+QNmT0m3QYlYYw==" identifier="/tmp/.mount_lDzuSU/usr/share/krita/paintoppresets/Smudge_soft.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="+MKlutfRsrv3Vz45EVHzug==" identifier="/tmp/.mount_lDzuSU/usr/share/krita/paintoppresets/Basic_mix.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="NNR2MgWZNXTbDnTbX8hsRg==" identifier="/tmp/.mount_lDzuSU/usr/share/krita/paintoppresets/Block_basic.kpp">
-  <tag>mimi</tag>
-  <tag>Favorite Presets</tag>
- </resource>
- <resource md5="VpJzW9jJB6rHKyoKk03qZw==" identifier="~/.local/share/krita/paintoppresets/deevad E002 basic flow.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="93xCHSLyBrGjPyQ4NwZE4A==" identifier="~/.local/share/krita/paintoppresets/mifth_presets/mifth_grunge_06.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="AdpIKVWpmmsC65QW5IEQ2A==" identifier="~/.local/share/krita/paintoppresets/mifth_presets/mifth_grunge_16.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="Lz5cd9ZHumhoJvly7OuYLA==" identifier="/tmp/.mount_lDzuSU/usr/share/krita/paintoppresets/Splatter_thin.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="zMvZE92dv4DEc9J+yXdHOA==" identifier="~/.local/share/krita/paintoppresets/mifth_presets/mifth_pixel_1.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="buPCuPsJD37s0628JmNDiQ==" identifier="~/.local/share/krita/paintoppresets/mifth_presets/mifth_grunge_12.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="HroxpIN+Jd5r5ne7E252JA==" identifier="~/.local/share/krita/paintoppresets/mifth_presets/mifth_vegetation_02.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="mXA5Xk/kA0FaJZZLq2Ds4A==" identifier="~/.local/share/krita/paintoppresets/deevad D4b dynamic blend.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="TuQi0CpiRJK5oVwjpDWpJA==" identifier="~/.local/share/krita/paintoppresets/mifth_presets/mifth_basic_round_05.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="5CTeHQeYsRYk9O6PdTjGLg==" identifier="~/.local/share/krita/paintoppresets/deevad G3 vegetal stylised.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="57on2LCesn7IsaTfnS6xzA==" identifier="~/.local/share/krita/paintoppresets/deevad D4a blender smeark.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="ssuIH+NAQxew8+e64ygmMw==" identifier="~/.local/share/krita/paintoppresets/deevad C6 rake grunge.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="S3Xp7wfS1maX9wMp+axvWw==" identifier="~/.local/share/krita/paintoppresets/mifth_presets/mifth_vegetation_01.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="SSSiIrr959jpNXBouMmnYA==" identifier="/tmp/.mount_lDzuSU/usr/share/krita/paintoppresets/FX_blur_light.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="gBFPik0q6QPItP+LgNMJlw==" identifier="/tmp/.mount_lDzuSU/usr/share/krita/paintoppresets/Fill_circle.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="m50TBtJ7JyEd9zehB3njPA==" identifier="/tmp/.mount_lDzuSU/usr/share/krita/paintoppresets/Layout_circle_soft.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="6kLCBYsggIZCxWFNkjG6hw==" identifier="/tmp/.mount_lDzuSU/usr/share/krita/paintoppresets/Smudge_rake.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="4vpyeQXh05xC+QvwHfmrMA==" identifier="~/.local/share/krita/paintoppresets/deevad C3 textured wet.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="DmvVmdGnDH9bTrnuvaLFhQ==" identifier="~/.local/share/krita/paintoppresets/deevad E010 detail rigger.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="FbO1eQ7M4qEpbUB3I0YGtQ==" identifier="/tmp/.mount_lDzuSU/usr/share/krita/paintoppresets/Bristles_mix.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="ZryJOG/beJBPgmBmUWApyg==" identifier="~/.local/share/krita/paintoppresets/deevad C2 watercolor.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="tetTf3X1H4+CFJb7reObTQ==" identifier="~/.local/share/krita/paintoppresets/mifth_presets/mifth_basic_round_04.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="csjyL6O5gmzIfFaOOxAH0w==" identifier="/tmp/.mount_lDzuSU/usr/share/krita/paintoppresets/Rake_texture.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="WYPAI9HnZM+31iDIIX4Eiw==" identifier="/tmp/.mount_lDzuSU/usr/share/krita/paintoppresets/Fill_block.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="NVbSBuXDdC3e4qIXZBa2Lw==" identifier="/tmp/.mount_lDzuSU/usr/share/krita/paintoppresets/Pencil_HB.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="Kj/y72ob+DwqmB2R3WrJZA==" identifier="/tmp/.mount_lDzuSU/usr/share/krita/paintoppresets/Bristles_textured.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="WtYLjWxOCMRfyDWmLu7Adw==" identifier="/tmp/.mount_lDzuSU/usr/share/krita/paintoppresets/Splat_texture.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="SPxi0/lbpOSdyb5J/RDCAA==" identifier="~/.local/share/krita/paintoppresets/mifth_presets/mifth_basic_round_02.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="lqsRGJb0whBOQhjolzr1TA==" identifier="~/.local/share/krita/paintoppresets/deevad E2 multi painting touch.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="NJLSuh5hldaTIyR7k2qUFQ==" identifier="/tmp/.mount_lDzuSU/usr/share/krita/paintoppresets/Layout_block.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="QHwE6hsW6DnyR4gEiLR8+A==" identifier="/tmp/.mount_lDzuSU/usr/share/krita/paintoppresets/Texture_leaves_fuzzy.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="h9iFfcEF1vlMm57ReEhUpw==" identifier="~/.local/share/krita/paintoppresets/mifth_presets/mifth_grunge_17.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="UyoKRTSR6MPDDODfv04GCg==" identifier="/tmp/.mount_lDzuSU/usr/share/krita/paintoppresets/Pencil_tilt.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="xG9fNpwSmVvSi3e6Kf+eBA==" identifier="~/.local/share/krita/paintoppresets/deevad D3b clone tool.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="wyfb0jDg8TkTAGAXomgQFQ==" identifier="/tmp/.mount_lDzuSU/usr/share/krita/paintoppresets/Move_tool.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="uVv1jOPeeejabDwiPvK9eQ==" identifier="~/.local/share/krita/paintoppresets/deevad C4 rake large.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="q6pOj7LKBrgy5moeqQrVHg==" identifier="~/.local/share/krita/paintoppresets/mifth_presets/mifth_vegetation_05.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="TD3udZsAuEHMskr1kFKyag==" identifier="~/.local/share/krita/paintoppresets/deevad G6 cracks.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="M4SqfU7YF8+wuBqoutMtJw==" identifier="~/.local/share/krita/paintoppresets/mifth_presets/mifth_grunge_08.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="Wa+TDI+UVsdIxbwrKrh2FQ==" identifier="~/.local/share/krita/paintoppresets/deevad E4 splat.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="Sf+LwjQCa/bLxaomd1xP1A==" identifier="/tmp/.mount_lDzuSU/usr/share/krita/paintoppresets/Basic_tip_soft.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="iatG6w0IUd7sn2Q2Q9sOLg==" identifier="/tmp/.mount_lDzuSU/usr/share/krita/paintoppresets/Sparkle_wet_soft.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="WYb3P2m6yAPzCP6UcZ9OFg==" identifier="/tmp/.mount_lDzuSU/usr/share/krita/paintoppresets/Eraser_hard.kpp">
-  <tag>Favorite Presets</tag>
- </resource>
- <resource md5="MmASj8i+WjFtBRgVe8/mgQ==" identifier="~/.local/share/krita/paintoppresets/mifth_presets/mifth_mix_01.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="KO3fC5sSIawmyoprNj4Gjw==" identifier="/tmp/.mount_lDzuSU/usr/share/krita/paintoppresets/Basic_tip_gaussian.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="0z90oFiQvfdSx/mL5xLm/A==" identifier="/tmp/.mount_lDzuSU/usr/share/krita/paintoppresets/Sparkle_wet.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="eq70dIWrKGFNRz58q4hOpw==" identifier="/tmp/.mount_lDzuSU/usr/share/krita/paintoppresets/Ink_gpen_10.kpp">
-  <tag>mimi</tag>
-  <tag>Favorite Presets</tag>
- </resource>
- <resource md5="l47G/ADsP8T1yJyT0u5bSw==" identifier="~/.local/share/krita/paintoppresets/mifth_presets/mifth_grunge_05.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="zUaRL7nEAoWqB3gjTEWsXg==" identifier="~/.local/share/krita/paintoppresets/deevad E5 splat drop.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="KbWhtAm9cNbjdkzg9o8uuA==" identifier="~/.local/share/krita/paintoppresets/deevad E1 organic flower ivy plants.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="h0Obq3EhJfNzl54qcp4L+A==" identifier="/tmp/.mount_lDzuSU/usr/share/krita/paintoppresets/Pencil_2B.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="IX+GAyagcn7WACtbfbYv1A==" identifier="~/.local/share/krita/paintoppresets/mifth_presets/mifth_vegetation_03.kpp">
-  <tag>mimi</tag>
- </resource>
- <resource md5="SDi0lo9MZBoX87jtxIKNbg==" identifier="/tmp/.mount_lDzuSU/usr/share/krita/paintoppresets/Sponge_texture.kpp">
-  <tag>mimi</tag>
  </resource>
 </tags>
